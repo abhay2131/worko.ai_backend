@@ -74,8 +74,9 @@ Worko.ai is developing a product to assist job seekers in requesting referrals f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/worko-ai-backend-assignment.git
-   cd worko-ai-backend-assignment
+   git clone https://github.com/abhay2131/worko.ai_backend.git
+   cd worko.ai_backend
+
    ```
 
 2. Install dependencies:
