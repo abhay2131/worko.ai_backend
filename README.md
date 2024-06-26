@@ -1,5 +1,3 @@
-# worko.ai_backend
-
 # Worko.ai Backend Internship Assignment
 
 ## Overview
